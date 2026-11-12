@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Runtime cache
+/.localStorage
+
+# TypeScript compiled output
+*.tsbuildinfo
+*.tsc
+
+# Editor directories and files
+.vscode/
+.idea/
+
+# npm cache
+.npm/
+
+# Optional: Environment variables
+.env
+
+# Optional: package-lock.json
+yarn.lock
+package-lock.json

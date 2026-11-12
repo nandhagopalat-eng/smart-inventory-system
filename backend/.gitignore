@@ -1,0 +1,30 @@
+# Environment variables
+.env
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Logs
+*.log
+
+# Runtime cache
+pids/
+*.pid
+*.seed
+
+# Directory of application localStorage
+/.localStorage
+
+# npm cache
+.npm/
+
+# Folder with TypeScript compiled output
+.out/
+
+# Optional: vim swap files
+*.swp
+*.swa
